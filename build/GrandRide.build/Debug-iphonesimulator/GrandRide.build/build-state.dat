@@ -1,0 +1,256 @@
+TGrandRide
+v7
+r0
+t332088718.598631
+cCheck dependencies
+cProcessInfoPlistFile /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/Info.plist GrandRide-Info.plist
+cCompileXIB /Users/ppassa/Projects/grand_ride/GrandRide/MainWindow.xib
+cCompileXIB /Users/ppassa/Projects/grand_ride/GrandRide/GrandRideViewController.xib
+cProcessPCH /var/folders/mU/mUz5opYTEBOQmxgh9A-TM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrandRide_Prefix-ebvyhvasgxnzaecykrnbxxmwxcoj/GrandRide_Prefix.pch.gch GrandRide_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/main.o /Users/ppassa/Projects/grand_ride/GrandRide/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRideAppDelegate.o /Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRideViewController.o /Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/GrandRide normal i386
+cGenerateDSYMFile /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app.dSYM /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/GrandRide
+cTouch /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideAppDelegate.h
+c000000004E1AF92600000000000001F0
+t1310390566
+s496
+i<UIKit/UIKit.h>
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideAppDelegate.m
+c000000004E1AFAEC0000000000000AE0
+t1310391020
+s2784
+i"GrandRideAppDelegate.h"
+i"GrandRideViewController.h"
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.h
+c000000004E1AF974000000000000015B
+t1310390644
+s347
+i<UIKit/UIKit.h>
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m
+c000000004E1B0EA200000000000009CD
+t1310396066
+s2509
+i"GrandRideViewController.h"
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/GrandRideViewController.xib
+c000000004E1B0DCE000000000000462E
+t1310395854
+s17966
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/GrandRide_Prefix.pch
+c000000004E1AF92600000000000000BB
+t1310390566
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/MainWindow.xib
+c000000004E1AF9260000000000004E41
+t1310390566
+s20033
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app
+t1310395856
+s238
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app.dSYM
+t1310395640
+s102
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/GrandRide
+t1310395640
+s18076
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/GrandRideViewController.nib
+t1310395856
+s1754
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/Info.plist
+t1310390899
+s599
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/MainWindow.nib
+t1310390899
+s1685
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/PkgInfo
+t1310390899
+s8
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRide.LinkFileList
+c000000004E1AFA7300000000000001AC
+t1310390899
+s428
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRideAppDelegate.o
+t1310391029
+s51584
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRideViewController.o
+t1310395639
+s43912
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/main.o
+t1310390900
+s6320
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/main.m
+c000000004E1AF9260000000000000170
+t1310390566
+s368
+i<UIKit/UIKit.h>
+
+N/var/folders/mU/mUz5opYTEBOQmxgh9A-TM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrandRide_Prefix-ebvyhvasgxnzaecykrnbxxmwxcoj/GrandRide_Prefix.pch.gch
+t1310390900
+s15814064
+
+NGrandRide-Info.plist
+c000000004E1AF926000000000000038D
+t1310390566
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332088718#332088718#0(0"0(0#1#0"8622565216#0"0#
+
+CCompileC build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRideAppDelegate.o /Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332083829.339974
+e332083829.536164
+r1
+xCompileC
+xbuild/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRideAppDelegate.o
+x/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideAppDelegate.m332083829#332083829#0(0"0(0#0#74"/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideAppDelegate.m7083932847239164928#2049"    cd /Users/ppassa/Projects/grand_ride/GrandRide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-generated-files.hmap -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-own-target-headers.hmap -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-all-target-headers.hmap -iquote /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-project-headers.hmap -F/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator -I/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/include -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/DerivedSources/i386 -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/DerivedSources -include /var/folders/mU/mUz5opYTEBOQmxgh9A-TM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrandRide_Prefix-ebvyhvasgxnzaecykrnbxxmwxcoj/GrandRide_Prefix.pch -c /Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideAppDelegate.m -o /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRideAppDelegate.o0#
+
+CCompileC build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRideViewController.o /Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332088439.842065
+e332088439.998519
+r1
+xCompileC
+xbuild/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRideViewController.o
+x/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m332088439#332088440#0(0"0(0#0#77"/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m8622345056#2055"    cd /Users/ppassa/Projects/grand_ride/GrandRide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-generated-files.hmap -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-own-target-headers.hmap -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-all-target-headers.hmap -iquote /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-project-headers.hmap -F/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator -I/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/include -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/DerivedSources/i386 -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/DerivedSources -include /var/folders/mU/mUz5opYTEBOQmxgh9A-TM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrandRide_Prefix-ebvyhvasgxnzaecykrnbxxmwxcoj/GrandRide_Prefix.pch -c /Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m -o /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRideViewController.o0#
+
+CCompileC build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/main.o /Users/ppassa/Projects/grand_ride/GrandRide/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332083700.728123
+e332083700.799983
+r1
+xCompileC
+xbuild/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/main.o
+x/Users/ppassa/Projects/grand_ride/GrandRide/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/ppassa/Projects/grand_ride/GrandRide/main.m332083700#332083700#0(0"0(0#0#50"/Users/ppassa/Projects/grand_ride/GrandRide/main.m8614971232#2009"    cd /Users/ppassa/Projects/grand_ride/GrandRide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-generated-files.hmap -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-own-target-headers.hmap -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-all-target-headers.hmap -iquote /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-project-headers.hmap -F/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator -I/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/include -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/DerivedSources/i386 -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/DerivedSources -include /var/folders/mU/mUz5opYTEBOQmxgh9A-TM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrandRide_Prefix-ebvyhvasgxnzaecykrnbxxmwxcoj/GrandRide_Prefix.pch -c /Users/ppassa/Projects/grand_ride/GrandRide/main.m -o /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/ppassa/Projects/grand_ride/GrandRide/GrandRideViewController.xib
+s332088655.961732
+e332088656.373671
+r1
+xCompileXIB
+x/Users/ppassa/Projects/grand_ride/GrandRide/GrandRideViewController.xib
+lSLF07#2@38"CompileXIB GrandRideViewController.xib332088655#332088656#0(0"0(0#0#71"/Users/ppassa/Projects/grand_ride/GrandRide/GrandRideViewController.xib8622830848#613"    cd /Users/ppassa/Projects/grand_ride/GrandRide    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/GrandRideViewController.nib /Users/ppassa/Projects/grand_ride/GrandRide/GrandRideViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/ppassa/Projects/grand_ride/GrandRide/MainWindow.xib
+s332083699.258824
+e332083699.794053
+r1
+xCompileXIB
+x/Users/ppassa/Projects/grand_ride/GrandRide/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib332083699#332083699#0(0"0(0#0#58"/Users/ppassa/Projects/grand_ride/GrandRide/MainWindow.xib8615269504#587"    cd /Users/ppassa/Projects/grand_ride/GrandRide    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/MainWindow.nib /Users/ppassa/Projects/grand_ride/GrandRide/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app.dSYM /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/GrandRide
+s332088440.028642
+e332088440.046247
+r1
+xGenerateDSYMFile
+x/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app.dSYM
+x/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/GrandRide
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/GrandRide.app.dSYM build/Debug-iphonesimulator/GrandRide.app/GrandRide332088440#332088440#0(0"0(0#0#95"/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/GrandRide8620007008#404"    cd /Users/ppassa/Projects/grand_ride/GrandRide    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/GrandRide -o /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app.dSYM0#
+
+CLd /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/GrandRide normal i386
+s332088439.998618
+e332088440.028521
+r1
+xLd
+x/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/GrandRide
+xnormal
+xi386
+lSLF07#2@100"Link /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/GrandRide332088439#332088440#0(0"0(0#0#0"8621875264#935"    cd /Users/ppassa/Projects/grand_ride/GrandRide    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator -F/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator -filelist /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRide.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/GrandRide0#
+
+CProcessInfoPlistFile /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/Info.plist GrandRide-Info.plist
+s332083699.236453
+e332083699.258709
+r1
+xProcessInfoPlistFile
+x/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/Info.plist
+xGrandRide-Info.plist
+lSLF07#2@28"Process GrandRide-Info.plist332083699#332083699#0(0"0(0#0#64"/Users/ppassa/Projects/grand_ride/GrandRide/GrandRide-Info.plist28992425118793828#500"    cd /Users/ppassa/Projects/grand_ride/GrandRide    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GrandRide-Info.plist -genpkginfo /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/Info.plist0#
+
+CProcessPCH /var/folders/mU/mUz5opYTEBOQmxgh9A-TM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrandRide_Prefix-ebvyhvasgxnzaecykrnbxxmwxcoj/GrandRide_Prefix.pch.gch GrandRide_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s332083699.794264
+e332083700.727986
+r1
+xProcessPCH
+x/var/folders/mU/mUz5opYTEBOQmxgh9A-TM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrandRide_Prefix-ebvyhvasgxnzaecykrnbxxmwxcoj/GrandRide_Prefix.pch.gch
+xGrandRide_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile GrandRide_Prefix.pch332083699#332083700#0(0"0(0#0#64"/Users/ppassa/Projects/grand_ride/GrandRide/GrandRide_Prefix.pch8613143936#1894"    cd /Users/ppassa/Projects/grand_ride/GrandRide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-generated-files.hmap -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-own-target-headers.hmap -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-all-target-headers.hmap -iquote /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-project-headers.hmap -F/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator -I/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/include -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/DerivedSources/i386 -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/DerivedSources -c /Users/ppassa/Projects/grand_ride/GrandRide/GrandRide_Prefix.pch -o /var/folders/mU/mUz5opYTEBOQmxgh9A-TM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrandRide_Prefix-ebvyhvasgxnzaecykrnbxxmwxcoj/GrandRide_Prefix.pch.gch0#
+
+CTouch /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app
+s332088656.374319
+e332088656.377271
+r1
+xTouch
+x/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app
+lSLF07#2@91"Touch /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app332088656#332088656#0(0"0(0#0#0"8618741440#290"    cd /Users/ppassa/Projects/grand_ride/GrandRide    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app0#
+

@@ -1,0 +1,264 @@
+TGrandRide
+v7
+r0
+t332083700.885702
+cCheck dependencies
+cProcessInfoPlistFile /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/Info.plist GrandRide-Info.plist
+cCompileXIB /Users/ppassa/Projects/grand_ride/GrandRide/MainWindow.xib
+cCompileXIB /Users/ppassa/Projects/grand_ride/GrandRide/GrandRideViewController.xib
+cProcessPCH /var/folders/mU/mUz5opYTEBOQmxgh9A-TM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrandRide_Prefix-ebvyhvasgxnzaecykrnbxxmwxcoj/GrandRide_Prefix.pch.gch GrandRide_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/main.o /Users/ppassa/Projects/grand_ride/GrandRide/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRideAppDelegate.o /Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRideViewController.o /Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideAppDelegate.h
+c000000004E1AF92600000000000001F0
+t1310390566
+s496
+i<UIKit/UIKit.h>
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideAppDelegate.m
+c000000004E1AF9260000000000000AB9
+t1310390566
+s2745
+i"GrandRideAppDelegate.h"
+i"GrandRideViewController.h"
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.h
+c000000004E1AF974000000000000015B
+t1310390644
+s347
+i<UIKit/UIKit.h>
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m
+c000000004E1AFA1F00000000000008FA
+t1310390815
+s2298
+i"GrandRideViewController.h"
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/GrandRideViewController.xib
+c000000004E1AF9260000000000001A4D
+t1310390566
+s6733
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/GrandRide_Prefix.pch
+c000000004E1AF92600000000000000BB
+t1310390566
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/MainWindow.xib
+c000000004E1AF9260000000000004E41
+t1310390566
+s20033
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app
+t2
+s0
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app.dSYM
+t2
+s0
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/GrandRide
+t2
+s0
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/GrandRideViewController.nib
+t1310390899
+s1269
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/Info.plist
+t1310390899
+s599
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/MainWindow.nib
+t1310390899
+s1685
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/PkgInfo
+t1310390899
+s8
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRide.LinkFileList
+c000000004E1AFA7300000000000001AC
+t1310390899
+s428
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRideAppDelegate.o
+t1310390900
+s51600
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRideViewController.o
+t2
+s0
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/main.o
+t1310390900
+s6320
+
+N/Users/ppassa/Projects/grand_ride/GrandRide/main.m
+c000000004E1AF9260000000000000170
+t1310390566
+s368
+i<UIKit/UIKit.h>
+
+N/var/folders/mU/mUz5opYTEBOQmxgh9A-TM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrandRide_Prefix-ebvyhvasgxnzaecykrnbxxmwxcoj/GrandRide_Prefix.pch.gch
+t1310390900
+s15814064
+
+NGrandRide-Info.plist
+c000000004E1AF926000000000000038D
+t1310390566
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332083699#332083699#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRideAppDelegate.o /Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332083700.729528
+e332083700.885426
+r1
+xCompileC
+xbuild/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRideAppDelegate.o
+x/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideAppDelegate.m332083700#332083700#0(0"0(0#0#74"/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideAppDelegate.m8614894272#2049"    cd /Users/ppassa/Projects/grand_ride/GrandRide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-generated-files.hmap -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-own-target-headers.hmap -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-all-target-headers.hmap -iquote /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-project-headers.hmap -F/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator -I/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/include -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/DerivedSources/i386 -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/DerivedSources -include /var/folders/mU/mUz5opYTEBOQmxgh9A-TM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrandRide_Prefix-ebvyhvasgxnzaecykrnbxxmwxcoj/GrandRide_Prefix.pch -c /Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideAppDelegate.m -o /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRideAppDelegate.o0#
+
+CCompileC build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRideViewController.o /Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332083700.800186
+e332083700.873693
+r0
+xCompileC
+xbuild/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRideViewController.o
+x/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m: In function '-[GrandRideViewController viewDidUnload]':
+o/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m:60: warning: passing argument 2 of 'loadHTMLString:baseURL:' from incompatible pointer type
+o/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m: In function '-[GrandRideViewController webView:shouldStartLoadWithRequest:navigationType:]':
+o/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m:79: error: request for member 'txtFromWebView' in something not a structure or union
+o/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m: At top level:
+o/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m:90: warning: property 'webView' requires method '-webView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m:90: warning: property 'webView' requires the method 'setWebView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o{standard input}:143:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000003$pb"
+o{standard input}:143:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:139:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000003$pb"
+o{standard input}:139:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:131:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000003$pb"
+o{standard input}:131:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:125:non-relocatable subtraction expression, "L_OBJC_IVAR_$_GrandRideViewController.webView$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:125:symbol: "L_OBJC_IVAR_$_GrandRideViewController.webView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:95:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000002$pb"
+o{standard input}:95:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:88:non-relocatable subtraction expression, "L_OBJC_IVAR_$_GrandRideViewController.webView$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:88:symbol: "L_OBJC_IVAR_$_GrandRideViewController.webView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+o{standard input}:52:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_GrandRideViewController.webView$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+lSLF07#2@85"Compile /Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m332083700#332083700#0(3561"/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m: In function '-[GrandRideViewController viewDidUnload]':/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m:60: warning: passing argument 2 of 'loadHTMLString:baseURL:' from incompatible pointer type/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m: In function '-[GrandRideViewController webView:shouldStartLoadWithRequest:navigationType:]':/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m:79: error: request for member 'txtFromWebView' in something not a structure or union/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m: At top level:/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m:90: warning: property 'webView' requires method '-webView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m:90: warning: property 'webView' requires the method 'setWebView:' to be defined - use @synthesize, @dynamic or provide a method implementation{standard input}:143:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000003$pb"{standard input}:143:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:139:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000003$pb"{standard input}:139:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:131:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000003$pb"{standard input}:131:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:125:non-relocatable subtraction expression, "L_OBJC_IVAR_$_GrandRideViewController.webView$non_lazy_ptr" minus "L00000000003$pb"{standard input}:125:symbol: "L_OBJC_IVAR_$_GrandRideViewController.webView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:95:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000002$pb"{standard input}:95:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:88:non-relocatable subtraction expression, "L_OBJC_IVAR_$_GrandRideViewController.webView$non_lazy_ptr" minus "L00000000002$pb"{standard input}:88:symbol: "L_OBJC_IVAR_$_GrandRideViewController.webView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"{standard input}:52:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_GrandRideViewController.webView$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_35(22@78"Passing argument 2 of 'loadHTMLString:baseURL:' from incompatible pointer type332083700#135#170#0(6@77"/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m332083615#60#0#60#0#56"passing argument * of '*' from incompatible pointer type0(4@73"Request for member 'txtFromWebView' in something not a structure or union332083700#477#163#0(6@77"/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m332083615#79#0#79#0#0"0(23@13"At top level:332083700#640#93#0(6@77"/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m332083615#0#0#0#0#0"0(22@122"Property 'webView' requires method '-webView' to be defined - use @synthesize, @dynamic or provide a method implementation332083700#733#214#0(6@77"/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m332083615#90#0#90#0#0"0(22@129"Property 'webView' requires the method 'setWebView:' to be defined - use @synthesize, @dynamic or provide a method implementation332083700#947#221#0(6@77"/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m332083615#90#0#90#0#0"0(0#0#77"/Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m8614693248#2055"    cd /Users/ppassa/Projects/grand_ride/GrandRide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-generated-files.hmap -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-own-target-headers.hmap -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-all-target-headers.hmap -iquote /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-project-headers.hmap -F/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator -I/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/include -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/DerivedSources/i386 -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/DerivedSources -include /var/folders/mU/mUz5opYTEBOQmxgh9A-TM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrandRide_Prefix-ebvyhvasgxnzaecykrnbxxmwxcoj/GrandRide_Prefix.pch -c /Users/ppassa/Projects/grand_ride/GrandRide/Classes/GrandRideViewController.m -o /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/GrandRideViewController.o1#
+
+CCompileC build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/main.o /Users/ppassa/Projects/grand_ride/GrandRide/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332083700.728123
+e332083700.799983
+r1
+xCompileC
+xbuild/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/main.o
+x/Users/ppassa/Projects/grand_ride/GrandRide/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/ppassa/Projects/grand_ride/GrandRide/main.m332083700#332083700#0(0"0(0#0#50"/Users/ppassa/Projects/grand_ride/GrandRide/main.m8614971232#2009"    cd /Users/ppassa/Projects/grand_ride/GrandRide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-generated-files.hmap -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-own-target-headers.hmap -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-all-target-headers.hmap -iquote /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-project-headers.hmap -F/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator -I/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/include -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/DerivedSources/i386 -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/DerivedSources -include /var/folders/mU/mUz5opYTEBOQmxgh9A-TM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrandRide_Prefix-ebvyhvasgxnzaecykrnbxxmwxcoj/GrandRide_Prefix.pch -c /Users/ppassa/Projects/grand_ride/GrandRide/main.m -o /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/ppassa/Projects/grand_ride/GrandRide/GrandRideViewController.xib
+s332083699.260871
+e332083699.783401
+r1
+xCompileXIB
+x/Users/ppassa/Projects/grand_ride/GrandRide/GrandRideViewController.xib
+lSLF07#2@38"CompileXIB GrandRideViewController.xib332083699#332083699#0(0"0(0#0#71"/Users/ppassa/Projects/grand_ride/GrandRide/GrandRideViewController.xib8615171168#613"    cd /Users/ppassa/Projects/grand_ride/GrandRide    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/GrandRideViewController.nib /Users/ppassa/Projects/grand_ride/GrandRide/GrandRideViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/ppassa/Projects/grand_ride/GrandRide/MainWindow.xib
+s332083699.258824
+e332083699.794053
+r1
+xCompileXIB
+x/Users/ppassa/Projects/grand_ride/GrandRide/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib332083699#332083699#0(0"0(0#0#58"/Users/ppassa/Projects/grand_ride/GrandRide/MainWindow.xib8615269504#587"    cd /Users/ppassa/Projects/grand_ride/GrandRide    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/MainWindow.nib /Users/ppassa/Projects/grand_ride/GrandRide/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app.dSYM /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/GrandRide
+r0
+
+CLd /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/GrandRide normal i386
+r0
+
+CProcessInfoPlistFile /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/Info.plist GrandRide-Info.plist
+s332083699.236453
+e332083699.258709
+r1
+xProcessInfoPlistFile
+x/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/Info.plist
+xGrandRide-Info.plist
+lSLF07#2@28"Process GrandRide-Info.plist332083699#332083699#0(0"0(0#0#64"/Users/ppassa/Projects/grand_ride/GrandRide/GrandRide-Info.plist28992425118793828#500"    cd /Users/ppassa/Projects/grand_ride/GrandRide    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GrandRide-Info.plist -genpkginfo /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app/Info.plist0#
+
+CProcessPCH /var/folders/mU/mUz5opYTEBOQmxgh9A-TM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrandRide_Prefix-ebvyhvasgxnzaecykrnbxxmwxcoj/GrandRide_Prefix.pch.gch GrandRide_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s332083699.794264
+e332083700.727986
+r1
+xProcessPCH
+x/var/folders/mU/mUz5opYTEBOQmxgh9A-TM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrandRide_Prefix-ebvyhvasgxnzaecykrnbxxmwxcoj/GrandRide_Prefix.pch.gch
+xGrandRide_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile GrandRide_Prefix.pch332083699#332083700#0(0"0(0#0#64"/Users/ppassa/Projects/grand_ride/GrandRide/GrandRide_Prefix.pch8613143936#1894"    cd /Users/ppassa/Projects/grand_ride/GrandRide    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-generated-files.hmap -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-own-target-headers.hmap -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-all-target-headers.hmap -iquote /Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/GrandRide-project-headers.hmap -F/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator -I/Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/include -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/DerivedSources/i386 -I/Users/ppassa/Projects/grand_ride/GrandRide/build/GrandRide.build/Debug-iphonesimulator/GrandRide.build/DerivedSources -c /Users/ppassa/Projects/grand_ride/GrandRide/GrandRide_Prefix.pch -o /var/folders/mU/mUz5opYTEBOQmxgh9A-TM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrandRide_Prefix-ebvyhvasgxnzaecykrnbxxmwxcoj/GrandRide_Prefix.pch.gch0#
+
+CTouch /Users/ppassa/Projects/grand_ride/GrandRide/build/Debug-iphonesimulator/GrandRide.app
+r0
+
